@@ -119,7 +119,12 @@ body{
     transition: 1s ease-out;
     color: azure !important;
 }
+
 /* **************************** My Styles ************************* */
+
+.formulario input {
+    width: 100% !important;
+}
 
 li img {
     box-sizing: content-box;
