@@ -55,9 +55,7 @@ ROOT_URLCONF = "revisalo.urls"
 TEMPLATES = [
     {
         "BACKEND": "django.template.backends.django.DjangoTemplates",
-        "DIRS": [
-            R"C:\Users\julio\Desktop\proyecto-revisalo\revisalo\avisosApp\template"
-        ],
+        "DIRS": [R"C:\Users\julio\Desktop\proyecto-revisalo"],
         "APP_DIRS": True,
         "OPTIONS": {
             "context_processors": [
